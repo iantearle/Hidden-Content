@@ -1,5 +1,9 @@
 As previously seen on the Appcelerator Marketplace, HiddenContent is now open source, you may do what you like with it, we are no longer supporting third parties.
 
+This project is a direct port from the Marketplace code. We have had reports of bugs, however our implementation worked in a real world example with minimal alterations to the core code. 
+
+The functionality is seen on the Facebook and Path 2 apps.
+
 ### MIT License
 
 Copyright (c) 2011 Little Polar Apps Ltd
